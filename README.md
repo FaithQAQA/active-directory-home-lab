@@ -2,7 +2,7 @@
 
 A hands-on home lab project simulating a small enterprise IT environment using Windows Server and Active Directory. Built as a portfolio project for IT Support, Help Desk, and SysAdmin roles.
 
-**[📄 View Full Proof of Completion (PDF)](./AD_Lab_Proof_of_Completion.pdf)**
+**[ View Full Proof of Completion (PDF)](./AD_Lab_Proof_of_Completion.pdf)**
 
 ---
 
@@ -46,6 +46,4 @@ All screenshots are documented in the [proof of completion PDF](./AD_Lab_Proof_o
 
 
 
-## 🔗 References
 
-- [Tutorial followed](./Active_Directory_Home_Lab_Tutorial_Resume_Project.pdf)
